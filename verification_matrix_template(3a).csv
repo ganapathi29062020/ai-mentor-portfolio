@@ -1,0 +1,9 @@
+Claim,AI source,Perplexity check,Primary source URL,Verdict (VERIFIED / PARTIAL / FALSE / NO PRIMARY SOURCE)
+Claim 1,chat gpt,output same,http://shiksha.com/college/abes-engineering-college-ghaziabad-24068/placement,verfied
+Claim 2,gemini,output is different,https://timesofindia.indiatimes.com/city/nagpur/iiit-nagpur-to-confer-degrees-on-431-students-achieves-94-68-placement-for-2025-batch/articleshow/125233338.cms?utm_source=chatgpt.com,verified
+Claim 3,gemini,output same,https://www.peoplematters.in/news/recruiting-and-onboarding/tcs-makes-25000-fresher-offers-says-changing-delivery-modelsnot-ailed-to-layoffs-49194,verified
+Claim 4,chat gpt,output same,https://www.linkedin.com/posts/devendra-singh-bisht-13443a36_indiait-recruitment-techcareers-share-7365804302994452480-a-Tu/,veried
+Claim 5,gemini,output same,https://www.novaretalent.com/iit-placements/iit-bombay?utm_source=chatgpt.com,verified
+,,,,
+Reflection (1 paragraph):,,,,
+Which claim looked most authoritative but was actually weakest? Why?,,,,
