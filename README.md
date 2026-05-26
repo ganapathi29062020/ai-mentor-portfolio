@@ -20,3 +20,4 @@ INTERVIEW ANSWER — "I built a structured-output pipeline that turns scraped JD
 Files
 Day6_PlacementProcessor.ipynb — the notebook
 data/jds.jsonl — output of this sprint, input for Day 7 RAG
+
